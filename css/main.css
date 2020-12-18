@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.wrapper{
+    background-image: linear-gradient(to right, #94F3F5, #0B1C59);
+    display: flex;
+    margin: 5rem auto;
+    width: 990px;
+    height: 490px;
+    border-radius: 70px;
+}
+
+img{
+    margin-top: -4rem;
+}
+
+.texts{
+    margin-top: 8rem;
+    padding-right: 2rem;
+}
+
+.texts h3{
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.texts p{
+    text-align: right;
+    padding-bottom: 2rem;
+}
+
+.texts a{
+    margin-left: 19rem;
+    border: 2px solid #ffffff;
+    padding: 19px 2.7rem;
+    border-radius: 20px;
+}
